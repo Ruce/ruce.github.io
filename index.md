@@ -19,3 +19,11 @@ Try it [here](https://ruce.github.io/colour-ai/)!
 The World of Warcraft (WoW) add-on that was the predecessor to DetoxAI! Blocks and hides abusive chat messages based on a combination of text content and game conditions, allowing friendly banter while stopping unsolicited toxic messages.
 
 Hosted on [CurseForge](https://www.curseforge.com/wow/addons/detox).
+
+* * *
+
+# Emoji Chess
+
+[![Emoji Chess](/assets/img/EmojiChess.png)](https://github.com/Ruce/emoji-chess)
+
+Play chess against a bot using emojis :grin: Originally developed as a Facebook Messenger chatbot and deployed on Heroku, currently undergoing redevelopment.
