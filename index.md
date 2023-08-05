@@ -26,4 +26,4 @@ Hosted on [CurseForge](https://www.curseforge.com/wow/addons/detox).
 
 [![Emoji Chess](/assets/img/EmojiChess.png)](https://github.com/Ruce/emoji-chess)
 
-Play chess against a bot using emojis :grin: Originally developed as a Facebook Messenger chatbot and deployed on Heroku, currently undergoing redevelopment.
+Play chess against a bot using emojis 😄 Originally developed as a Facebook Messenger chatbot and deployed on Heroku, currently undergoing redevelopment.
