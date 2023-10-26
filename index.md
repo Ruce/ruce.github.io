@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# Pianola
+
+[![Pianola](/assets/img/PianolaScreenshot.png)](https://pianola.app)
+
+An application that plays AI-generated piano music, Pianola uses a large language model but the language is music! Users seed (i.e. "prompt") the AI model by playing notes on the keyboard, or choosing example snippets from classical pieces.
+
+See it in action [here](https://pianola.app), or learn more about the technical details on the [GitHub repository](https://github.com/Ruce/pianola)!
+
+* * *
+
 # Colour AI
 
 [![Colour AI](/assets/img/ColourAIScreenshot.png)](https://ruce.github.io/colour-ai/)
