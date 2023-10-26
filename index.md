@@ -6,9 +6,9 @@ layout: default
 
 [![Pianola](/assets/img/PianolaScreenshot.png)](https://pianola.app)
 
-An application that plays AI-generated piano music, Pianola uses a large language model but the language is music! Users seed (i.e. "prompt") the AI model by playing notes on the keyboard, or choosing example snippets from classical pieces.
+An application that plays AI-generated piano music, Pianola uses a large language model - but the language is music! Users seed (i.e. "prompt") the AI model by playing notes on the keyboard, or choosing example snippets from classical pieces.
 
-See it in action [here](https://pianola.app), or learn more about the technical details on the [GitHub repository](https://github.com/Ruce/pianola)!
+[See it in action](https://pianola.app), or learn more on the [GitHub repository](https://github.com/Ruce/pianola)!
 
 * * *
 
@@ -34,6 +34,6 @@ Hosted on [CurseForge](https://www.curseforge.com/wow/addons/detox).
 
 # Emoji Chess
 
-[![Emoji Chess](/assets/img/EmojiChess.png)](https://github.com/Ruce/emoji-chess)
+[![Emoji Chess](/assets/img/EmojiChessScreenshot.png)](https://github.com/Ruce/emoji-chess)
 
 Play chess against a bot using emojis 😄 Originally developed as a Facebook Messenger chatbot and deployed on Heroku, currently undergoing redevelopment.
